@@ -1,6 +1,6 @@
 [![GPL](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Build Status - Github CI](https://github.com/PIUGroup/graph/workflows/Build%20Status%20-%20Github%20CI/badge.svg)](https://github.com/PIUGroup/graph/actions?query=workflow%3A%22Build+Status+-+Github+CI%22)
-[![GitHub all releases](https://img.shields.io/badge/Downloads-graph-green)](https://github.com/PIUGroup/graph/packages/623070/versions)
+[![GitHub all releases](https://img.shields.io/badge/Downloads-graph-green)](https://github.com/PIUGroup/graph/packages/626030/versions)
 
 # README #
 
